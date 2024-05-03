@@ -1,1 +1,1 @@
-CodeChef 500 to 1000 Difficulty Problems (91 total)
+CodeChef 500 to 800 Difficulty Problems (91 total)
